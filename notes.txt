@@ -1,0 +1,20 @@
+Superuser
+username: admin
+password: lemon@789!
+
+Managers
+username: mario
+password: lemon@789!
+
+username: adrian
+password: lemon@789!
+
+Delivery Crew
+username: sana
+password: lemon@789!
+
+username: mikolo
+password: lemon@789!
+
+username: tolobifi
+password: lemon@789!
